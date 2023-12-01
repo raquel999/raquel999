@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Raquel Ribas 👋
+### About :sparkler:
+I'm currently studying at [Rocketseat](https://rocketseat.coomm.br/).🚀
 
-<!--
-**raquel999/raquel999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Stack :star:
+- Main language: `JavaScript`
+- Frontend: `CSS3`, `HTML5`, `JavaScript`
 
-Here are some ideas to get you started:
+### Contacts :phone:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: https://www.linkedin.com/in/raquel-ribas-195ab8291/
+
+
+
