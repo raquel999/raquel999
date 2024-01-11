@@ -4,7 +4,7 @@ I'm currently studying at [Rocketseat](https://rocketseat.coomm.br/).🚀
 
 ### Current Stack ✨
 - 🚧 Main language: `JavaScript`
-- :tada:Frontend: `CSS3`, `HTML5`, `JavaScript`
+- :tada:Frontend: `CSS3`, `HTML5`, `JavaScript`, `ReactJs`
 
 ### Contacts :phone:
 
